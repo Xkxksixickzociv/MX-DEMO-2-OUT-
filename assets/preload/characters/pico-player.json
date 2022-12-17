@@ -14,7 +14,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				21,
+				20,
 				27
 			],
 			"anim": "singUP",
@@ -98,6 +98,17 @@
 			"anim": "singLEFTmiss",
 			"indices": [],
 			"name": "Pico NOTE LEFT miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				-80
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "dodge",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,

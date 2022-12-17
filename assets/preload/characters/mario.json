@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-45,
+				117
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "transformation",
+			"indices": [],
+			"name": "transformation"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				171,
+				130
+			],
+			"anim": "idle",
+			"fps": 20,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				396,
+				274
+			],
+			"anim": "singLEFT",
+			"fps": 20,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				430
+			],
+			"anim": "singDOWN",
+			"fps": 20,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				391,
+				554
+			],
+			"anim": "singUP",
+			"fps": 20,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				239
+			],
+			"anim": "singRIGHT",
+			"fps": 16,
+			"name": "right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/pc_mario_remaster",
+	"position": [
+		-320,
+		-50
+	],
+	"healthicon": "mx",
+	"flip_x": false,
+	"healthbar_colors": [
+		54,
+		32,
+		10
+	],
+	"camera_position": [
+		200,
+		-240
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
