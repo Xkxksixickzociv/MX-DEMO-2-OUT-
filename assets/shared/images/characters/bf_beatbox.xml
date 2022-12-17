@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf_beatbox.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="5" y="5" width="501" height="566" frameX="0" frameY="-10" frameWidth="505" frameHeight="576"/>
+	<SubTexture name="down0001" x="5" y="5" width="501" height="566" frameX="0" frameY="-10" frameWidth="505" frameHeight="576"/>
+	<SubTexture name="down0002" x="511" y="5" width="501" height="565" frameX="-4" frameY="0" frameWidth="505" frameHeight="576"/>
+	<SubTexture name="down0003" x="511" y="5" width="501" height="565" frameX="-4" frameY="0" frameWidth="505" frameHeight="576"/>
+	<SubTexture name="idle0000" x="1017" y="5" width="497" height="575" frameX="-13" frameY="0" frameWidth="513" frameHeight="598"/>
+	<SubTexture name="idle0001" x="1017" y="5" width="497" height="575" frameX="-13" frameY="0" frameWidth="513" frameHeight="598"/>
+	<SubTexture name="idle0002" x="1519" y="5" width="498" height="575" frameX="-12" frameY="-10" frameWidth="513" frameHeight="598"/>
+	<SubTexture name="idle0003" x="1519" y="5" width="498" height="575" frameX="-12" frameY="-10" frameWidth="513" frameHeight="598"/>
+	<SubTexture name="idle0004" x="5" y="585" width="510" height="560" frameX="0" frameY="-32" frameWidth="513" frameHeight="598"/>
+	<SubTexture name="idle0005" x="5" y="585" width="510" height="560" frameX="0" frameY="-32" frameWidth="513" frameHeight="598"/>
+	<SubTexture name="idle0006" x="520" y="585" width="500" height="565" frameX="-10" frameY="-33" frameWidth="513" frameHeight="598"/>
+	<SubTexture name="idle0007" x="520" y="585" width="500" height="565" frameX="-10" frameY="-33" frameWidth="513" frameHeight="598"/>
+	<SubTexture name="idle0008" x="1025" y="585" width="498" height="565" frameX="-14" frameY="-31" frameWidth="513" frameHeight="598"/>
+	<SubTexture name="idle0009" x="1025" y="585" width="498" height="565" frameX="-14" frameY="-31" frameWidth="513" frameHeight="598"/>
+	<SubTexture name="idle0010" x="1528" y="585" width="498" height="565" frameX="-15" frameY="-30" frameWidth="513" frameHeight="598"/>
+	<SubTexture name="idle0011" x="1528" y="585" width="498" height="565" frameX="-15" frameY="-30" frameWidth="513" frameHeight="598"/>
+	<SubTexture name="idle0012" x="1528" y="585" width="498" height="565" frameX="-15" frameY="-30" frameWidth="513" frameHeight="598"/>
+	<SubTexture name="left0000" x="5" y="1155" width="508" height="561" frameX="0" frameY="-9" frameWidth="516" frameHeight="570"/>
+	<SubTexture name="left0001" x="5" y="1155" width="508" height="561" frameX="0" frameY="-9" frameWidth="516" frameHeight="570"/>
+	<SubTexture name="left0002" x="518" y="1155" width="506" height="560" frameX="-10" frameY="0" frameWidth="516" frameHeight="570"/>
+	<SubTexture name="left0003" x="518" y="1155" width="506" height="560" frameX="-10" frameY="0" frameWidth="516" frameHeight="570"/>
+	<SubTexture name="miss0000" x="1029" y="1155" width="650" height="587"/>
+	<SubTexture name="right0000" x="5" y="1747" width="503" height="569" frameX="-10" frameY="0" frameWidth="513" frameHeight="580"/>
+	<SubTexture name="right0001" x="5" y="1747" width="503" height="569" frameX="-10" frameY="0" frameWidth="513" frameHeight="580"/>
+	<SubTexture name="right0002" x="513" y="1747" width="496" height="578" frameX="0" frameY="-2" frameWidth="513" frameHeight="580"/>
+	<SubTexture name="right0003" x="513" y="1747" width="496" height="578" frameX="0" frameY="-2" frameWidth="513" frameHeight="580"/>
+	<SubTexture name="up0000" x="1014" y="1747" width="494" height="584" frameX="-1" frameY="0" frameWidth="495" frameHeight="588"/>
+	<SubTexture name="up0001" x="1014" y="1747" width="494" height="584" frameX="-1" frameY="0" frameWidth="495" frameHeight="588"/>
+	<SubTexture name="up0002" x="1513" y="1747" width="494" height="581" frameX="0" frameY="-7" frameWidth="495" frameHeight="588"/>
+	<SubTexture name="up0003" x="1513" y="1747" width="494" height="581" frameX="0" frameY="-7" frameWidth="495" frameHeight="588"/>
+</TextureAtlas>

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="devil.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Mario Down0000" x="1" y="1" width="971" height="991"/>
+	<SubTexture name="Mario Down0001" x="973" y="1" width="971" height="991"/>
+	<SubTexture name="Mario Down0002" x="1945" y="1" width="971" height="991"/>
+	<SubTexture name="Mario Down0003" x="2917" y="1" width="971" height="991"/>
+	<SubTexture name="Mario Down0004" x="2917" y="1" width="971" height="991"/>
+	<SubTexture name="Mario Down0005" x="1945" y="1" width="971" height="991"/>
+	<SubTexture name="Mario Down0006" x="973" y="1" width="971" height="991"/>
+	<SubTexture name="Mario Down0007" x="3889" y="1" width="971" height="991"/>
+	<SubTexture name="Mario Down0008" x="3889" y="1" width="971" height="991"/>
+	<SubTexture name="Mario Down0009" x="3889" y="1" width="971" height="991"/>
+	<SubTexture name="Mario Idle0000" x="4861" y="1" width="1132" height="821"/>
+	<SubTexture name="Mario Idle0001" x="4861" y="1" width="1132" height="821"/>
+	<SubTexture name="Mario Idle0002" x="4861" y="1" width="1132" height="821"/>
+	<SubTexture name="Mario Idle0003" x="5994" y="1" width="1132" height="821"/>
+	<SubTexture name="Mario Idle0004" x="1" y="993" width="1132" height="821"/>
+	<SubTexture name="Mario Idle0005" x="1134" y="993" width="1132" height="821"/>
+	<SubTexture name="Mario Idle0006" x="1134" y="993" width="1132" height="821"/>
+	<SubTexture name="Mario Idle0007" x="1" y="993" width="1132" height="821"/>
+	<SubTexture name="Mario Idle0008" x="2267" y="993" width="1132" height="821"/>
+	<SubTexture name="Mario Idle0009" x="3400" y="993" width="1132" height="821"/>
+	<SubTexture name="Mario Idle0010" x="3400" y="993" width="1132" height="821"/>
+	<SubTexture name="Mario Idle0011" x="3400" y="993" width="1132" height="821"/>
+	<SubTexture name="Mario Idle0012" x="3400" y="993" width="1132" height="821"/>
+	<SubTexture name="Mario Left0000" x="4533" y="993" width="857" height="889"/>
+	<SubTexture name="Mario Left0001" x="5391" y="993" width="857" height="889"/>
+	<SubTexture name="Mario Left0002" x="6249" y="993" width="857" height="889"/>
+	<SubTexture name="Mario Left0003" x="7107" y="993" width="857" height="889"/>
+	<SubTexture name="Mario Left0004" x="1" y="1883" width="857" height="889"/>
+	<SubTexture name="Mario Left0005" x="6249" y="993" width="857" height="889"/>
+	<SubTexture name="Mario Left0006" x="5391" y="993" width="857" height="889"/>
+	<SubTexture name="Mario Left0007" x="4533" y="993" width="857" height="889"/>
+	<SubTexture name="Mario Left0008" x="4533" y="993" width="857" height="889"/>
+	<SubTexture name="Mario Left0009" x="4533" y="993" width="857" height="889"/>
+	<SubTexture name="Mario Right0000" x="859" y="1883" width="952" height="771"/>
+	<SubTexture name="Mario Right0001" x="1812" y="1883" width="952" height="771"/>
+	<SubTexture name="Mario Right0002" x="2765" y="1883" width="952" height="771"/>
+	<SubTexture name="Mario Right0003" x="3718" y="1883" width="952" height="771"/>
+	<SubTexture name="Mario Right0004" x="4671" y="1883" width="952" height="771"/>
+	<SubTexture name="Mario Right0005" x="5624" y="1883" width="952" height="771"/>
+	<SubTexture name="Mario Right0006" x="1812" y="1883" width="952" height="771"/>
+	<SubTexture name="Mario Right0007" x="859" y="1883" width="952" height="771"/>
+	<SubTexture name="Mario Right0008" x="859" y="1883" width="952" height="771"/>
+	<SubTexture name="Mario Right0009" x="859" y="1883" width="952" height="771"/>
+	<SubTexture name="Mario Up0000" x="6577" y="1883" width="810" height="1210"/>
+	<SubTexture name="Mario Up0001" x="1" y="3094" width="810" height="1210"/>
+	<SubTexture name="Mario Up0002" x="812" y="3094" width="810" height="1210"/>
+	<SubTexture name="Mario Up0003" x="1623" y="3094" width="810" height="1210"/>
+	<SubTexture name="Mario Up0004" x="2434" y="3094" width="810" height="1210"/>
+	<SubTexture name="Mario Up0005" x="3245" y="3094" width="810" height="1210"/>
+	<SubTexture name="Mario Up0006" x="4056" y="3094" width="810" height="1210"/>
+	<SubTexture name="Mario Up0007" x="4867" y="3094" width="810" height="1210"/>
+	<SubTexture name="Mario Up0008" x="4867" y="3094" width="810" height="1210"/>
+	<SubTexture name="Mario Up0009" x="4867" y="3094" width="810" height="1210"/>
+	<SubTexture name="Mario Up0010" x="4867" y="3094" width="810" height="1210"/>
+	<SubTexture name="Mario Up0011" x="4867" y="3094" width="810" height="1210"/>
+</TextureAtlas>

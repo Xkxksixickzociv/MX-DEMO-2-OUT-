@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mario.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="5" y="5" width="453" height="746"/>
+	<SubTexture name="idle0000" x="463" y="5" width="433" height="749"/>
+	<SubTexture name="left0000" x="901" y="5" width="425" height="749"/>
+	<SubTexture name="right0000" x="1331" y="5" width="449" height="752"/>
+	<SubTexture name="up0000" x="5" y="762" width="437" height="754"/>
+</TextureAtlas>

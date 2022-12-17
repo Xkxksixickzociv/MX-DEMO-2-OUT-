@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mario_stand.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle mario0000" x="0" y="0" width="349" height="597" frameX="0" frameY="0" frameWidth="349" frameHeight="598"/>
+	<SubTexture name="idle mario0001" x="0" y="0" width="349" height="597" frameX="0" frameY="0" frameWidth="349" frameHeight="598"/>
+	<SubTexture name="idle mario0002" x="0" y="597" width="349" height="596" frameX="0" frameY="-1" frameWidth="349" frameHeight="598"/>
+	<SubTexture name="idle mario0003" x="0" y="597" width="349" height="596" frameX="0" frameY="-1" frameWidth="349" frameHeight="598"/>
+	<SubTexture name="idle mario0004" x="0" y="1193" width="349" height="597" frameX="0" frameY="-1" frameWidth="349" frameHeight="598"/>
+	<SubTexture name="idle mario0005" x="0" y="1193" width="349" height="597" frameX="0" frameY="-1" frameWidth="349" frameHeight="598"/>
+</TextureAtlas>
