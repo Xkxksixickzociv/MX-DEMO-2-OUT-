@@ -1,0 +1,10 @@
+{
+	"idle_anim": "m",
+	"image": "Menu_legrabbygrabby",
+	"position": [
+		1070,
+		950
+	],
+	"scale": 1,
+	"confirm_anim": "hey"
+}
