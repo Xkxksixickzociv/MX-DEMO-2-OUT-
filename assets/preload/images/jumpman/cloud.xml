@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cloud.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="nobe0000" x="5" y="5" width="510" height="409" frameX="0" frameY="-2" frameWidth="510" frameHeight="411"/>
+	<SubTexture name="nobe0001" x="5" y="5" width="510" height="409" frameX="0" frameY="-2" frameWidth="510" frameHeight="411"/>
+	<SubTexture name="nobe0002" x="5" y="419" width="500" height="399" frameX="-7" frameY="-2" frameWidth="510" frameHeight="411"/>
+	<SubTexture name="nobe0003" x="5" y="419" width="500" height="399" frameX="-7" frameY="-2" frameWidth="510" frameHeight="411"/>
+	<SubTexture name="nobe0004" x="510" y="419" width="494" height="386" frameX="-16" frameY="0" frameWidth="510" frameHeight="411"/>
+	<SubTexture name="nobe0005" x="510" y="419" width="494" height="386" frameX="-16" frameY="0" frameWidth="510" frameHeight="411"/>
+	<SubTexture name="nobe0006" x="5" y="419" width="500" height="399" frameX="-7" frameY="-2" frameWidth="510" frameHeight="411"/>
+	<SubTexture name="nobe0007" x="5" y="419" width="500" height="399" frameX="-7" frameY="-2" frameWidth="510" frameHeight="411"/>
+</TextureAtlas>
