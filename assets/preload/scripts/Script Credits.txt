@@ -1,0 +1,10 @@
+Smooth Camera Script:
+	Smooth Camera Script by: Raltyro
+	Sacorg Engine Assets Recreation by: Waldo
+	Sacorg Engine by: Sacorg
+
+Dave and Bambi Miss Script by: XpsxExp
+
+Perlin Camera Script:
+	Perlin Implementation by: Maru
+	Script by: EyeDaleHim
