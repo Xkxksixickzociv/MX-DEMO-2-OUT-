@@ -1,0 +1,31 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "fucking-high",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"high-shovel",
+			"smokesx",
+			[
+				40,
+				40,
+				60
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekName": "Custom Week"
+}

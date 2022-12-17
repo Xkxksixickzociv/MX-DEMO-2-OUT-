@@ -1,0 +1,31 @@
+{
+	"storyName": " ",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "tooslow",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"jumpman",
+			"win",
+			[
+				80,
+				40,
+				60
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"legrabbygrabby",
+		""
+	],
+	"hideStoryMode": false,
+	"weekName": "a"
+}
